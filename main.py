@@ -2,6 +2,9 @@ from telnetlib import GA
 import tkinter as tk
 import random
 
+# custom
+import path
+
 
 # constante declaration
 GAME_WIDTH = 700
